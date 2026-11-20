@@ -23,7 +23,7 @@ CS + Cybersecurity (co-terminal B.S./M.S.) student at Illinois Institute of Tech
 
 ## 🔭 What I'm focused on
 
-- **Software engineering:** hands-on experience building production systems, most recently as a Software Engineering Intern at Kira Financial AI (Ares Financial Technology).
+- **Software engineering:** hands-on experience building production systems, most recently as a Software Engineer I at Kira Financial AI (Ares Financial Technology).
 - **Cybersecurity:** AI Software Engineering Intern at Dreamers Innovation Lab, working at the intersection of AI systems and security.
 - **Learning that bridges both:** building things that work, and making sure they hold up under attack.
 
